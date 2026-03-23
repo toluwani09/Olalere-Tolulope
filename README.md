@@ -1,7 +1,12 @@
+<!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" />
 </p>
-## 📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist
+
+<!-- Styled Role/Headline -->
+<p align="center">
+  <strong><span style="font-size:22px;">📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist</span></strong>
+</p>
 
 I am a data-driven professional with strong expertise in advanced analytics using Python, Power BI, and Tableau, combined with hands-on experience designing and deploying scalable cloud architectures on AWS.
 
