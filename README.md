@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Olalere%20Tolulope&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" />
 </p>
 # Hi 👋 I am Tolulope Olalere
 
