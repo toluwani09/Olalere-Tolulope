@@ -2,7 +2,6 @@
 <p align="center" style="margin-bottom:0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" />
 </p>
-
 <!-- Styled Role/Headline with minimal spacing -->
 <p align="center" style="margin-top:5px; margin-bottom:10px;">
   <strong><span style="font-size:22px;">📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist</span></strong>
