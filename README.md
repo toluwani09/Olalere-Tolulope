@@ -1,1 +1,85 @@
-# Olalere-Tolulope
+# Hi 👋 I am Tolulope Olalere
+
+## 📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist
+
+I am a data-driven professional with strong expertise in advanced analytics using Python, Power BI, and Tableau, combined with hands-on experience designing and deploying scalable cloud architectures on AWS.
+
+I transform raw data into actionable business insights — and I understand the infrastructure that powers modern data systems.
+
+---
+
+## 🎯 Core Expertise
+
+### 📊 Data Analytics & Business Intelligence
+✔ Advanced Data Cleaning & Preprocessing  
+✔ Exploratory Data Analysis (EDA)  
+✔ Statistical Analysis (ANOVA, Correlation, Hypothesis Testing)  
+✔ SQL for Complex Data Queries  
+✔ Dashboard Development (Power BI & Tableau)  
+✔ Data Storytelling & Business Insight Reporting  
+
+### ☁️ Cloud Engineering & Architecture
+✔ AWS Solutions Architecture (EC2, S3, RDS, IAM, VPC, Lambda)  
+✔ Auto Scaling & Load Balancing  
+✔ CI/CD Pipeline Implementation  
+✔ Docker & Containerization  
+✔ High Availability & Fault-Tolerant Systems  
+✔ Infrastructure Design & Deployment  
+
+---
+
+## 📂 Highlighted Projects
+
+### 📊 Flight Price Business Insight Analysis
+- End-to-end data cleaning and feature engineering
+- Statistical validation (ANOVA significance testing)
+- Identified key pricing drivers and seasonal trends
+- Delivered executive-level business insight report
+
+### 🛒 E-Commerce Sales Analytics Dashboard
+- Revenue and customer behavior analysis
+- Built interactive Power BI dashboard
+- Generated growth-focused business recommendations
+
+### ☁️ AWS Scalable Deployment Architecture
+- Designed cloud infrastructure with Load Balancer & Auto Scaling
+- Integrated API Gateway
+- Implemented CI/CD pipeline for automated deployment
+- Applied AWS best practices for scalability and reliability
+
+---
+
+## 🛠 Technical Stack
+
+### Analytics
+Python | Pandas | NumPy | Matplotlib | Seaborn | SQL  
+Power BI (DAX, Modeling) | Tableau | Excel  
+
+### Cloud & DevOps
+AWS | Docker | Kubernetes | GitHub Actions | Linux  
+
+---
+
+## 💡 Unique Advantage
+
+Most Data Analysts understand data.  
+Most Cloud Engineers understand infrastructure.  
+
+I understand both.
+
+This enables me to:
+- Analyze data deeply
+- Build scalable systems
+- Support data-driven cloud applications
+- Bridge the gap between analytics and engineering teams
+
+---
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/tolulope-olalere
+Email: tolulopeolalere4@gmail.com
+
+---
+
+### 📌 Career Focus
+Seeking Data Analyst opportunities while leveraging my cloud engineering background to deliver scalable, data-driven solutions.
