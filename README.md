@@ -13,7 +13,7 @@
 </p>
 
 I am a data-driven professional with strong expertise in advanced analytics using Python, Power BI, and Tableau, combined with hands-on experience designing and deploying scalable cloud architectures on AWS.<br>
-I transform raw data into actionable business insights — and I understand the infrastructure that powers modern data systems.<br><br>
+I transform raw data into actionable business insights, and I understand the infrastructure that powers modern data systems.<br><br>
 
 ---
 
