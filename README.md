@@ -1,7 +1,11 @@
+<!-- Banner --> <p align="center" style="margin-bottom:0;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" /> </p> <!-- Styled Role/Headline with minimal spacing --> <p align="center" style="margin-top:5px; margin-bottom:10px;"> <strong><span style="font-size:22px;">📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist</span></strong> </p>
+
 I am a data-driven professional with strong expertise in advanced analytics using Python, Power BI, and Tableau, combined with hands-on experience designing and deploying scalable cloud architectures on AWS.<br>
 I transform raw data into actionable business insights — and I understand the infrastructure that powers modern data systems.<br><br>
 
 ---
+🏅 Certifications & Badges
+<p align="left"> <a href="https://www.credly.com/badges/c7bcda70-c7fe-4b4e-b717-580a99a522aa/public_url" target="_blank"> <img src="C:\Users\Toluwani- Windows\Downloads\aws-badge.jpeg" alt="AWS Solutions Architect Badge" height="100" /> </a> </p>
 
 ## 🎯 Core Expertise
 
@@ -95,3 +99,6 @@ Email: tolulopeolalere4@gmail.com<br>
 
 ### 📌 Career Focus
 Seeking opportunities as a **Data Analyst, Business Analyst, Cloud Engineer, AWS Solutions Architect, or Platform Engineer**, where I can deliver scalable, data-driven, and highly available solutions.<br>
+
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+%26+Tableau+Specialist;Python+Data+Expert;AWS+Cloud+Engineer" /> </p>
