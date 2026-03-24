@@ -23,6 +23,7 @@ I transform raw data into actionable business insights, and I understand the inf
   <a href="https://www.credly.com/badges/c7bcda70-c7fe-4b4e-b717-580a99a522aa/public_url" target="_blank">
     <img src="https://your-repo-link/aws-badge.jpeg" height="100" />
   </a>
+  https://www.credly.com/badges/c7bcda70-c7fe-4b4e-b717-580a99a522aa/public_url
 </p>
 
 ---
