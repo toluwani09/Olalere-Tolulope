@@ -65,8 +65,6 @@ I transform raw data into actionable business insights, and I understand the inf
 - Performed time-series sales analysis across daily, monthly, quarterly, and annual periods to identify spike-driven demand patterns and inconsistent revenue periods<br>
 - Developed data-backed pricing, bundling, and diversification recommendations to improve stagnant inventory turnover and reduce overdependence on flagship SKUs<br>
 - Translated complex transactional data into strategic business insights around profitability optimization, sales consistency, and sustainable revenue growth<br>
-<img width="468" height="192" alt="image" src="https://github.com/user-attachments/assets/9b950817-9fb4-4081-9e66-3341d7c4e9dd" />
-
 
 #### 📊 Flight Price Business Insight Analysis
 - End-to-end data cleaning and feature engineering<br>
