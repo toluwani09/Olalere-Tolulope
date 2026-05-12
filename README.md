@@ -32,14 +32,6 @@
 
 ## 🎯 Core Expertise
 
-### 📊 Data Analytics & Business Intelligence
-✔ Advanced Data Cleaning & Preprocessing<br>
-✔ Exploratory Data Analysis (EDA)<br>
-✔ Statistical Analysis (ANOVA, Correlation, Hypothesis Testing)<br>
-✔ SQL for Complex Data Queries<br>
-✔ Dashboard Development (Power BI & Tableau)<br>
-✔ Data Storytelling & Business Insight Reporting<br>
-
 ### ☁️ Cloud Engineering & Architecture
 ✔ AWS Solutions Architecture (EC2, S3, RDS, IAM, VPC, Lambda)<br>
 ✔ Auto Scaling & Load Balancing<br>
@@ -58,35 +50,6 @@
 ---
 
 ## 📂 Highlighted Projects
-
-### 📊 Data Analyst Projects
-
-#### 📈 ElectroHub Executive Business Intelligence Report
-📌 GitHub: [View Project](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report)<br> 
-📌 PowerBI Service: [View Dashboards]( https://app.powerbi.com/links/KjBfSqTUtt?ctid=bc72cb36-5877-4317-9457-79e927663b6a&pbi_source=linkShare)<br> 
-- Conducted end-to-end product portfolio and profitability analysis across multi-year transactional data, identifying a critical revenue concentration risk driven by a single flagship product contributing over two-thirds of total sales<br>
-- Built an executive-facing BI dashboard/report to evaluate SKU performance tiers, uncovering significant inventory inefficiencies and product portfolio imbalance<br>
-- Performed time-series sales analysis across daily, monthly, quarterly, and annual periods to identify spike-driven demand patterns and inconsistent revenue periods<br>
-- Developed data-backed pricing, bundling, and diversification recommendations to improve stagnant inventory turnover and reduce overdependence on flagship SKUs<br>
-- Translated complex transactional data into strategic business insights around profitability optimization, sales consistency, and sustainable revenue growth<br>
-
-#### 🛒 E-Commerce Sales Analytics Dashboard
-📌 GitHub: [View Project](https://github.com/toluwani09/ecommerce-sales-analysis-python)<br> 
-- Analyzed 390K+ transactional records to uncover key revenue drivers, customer behavior patterns, and overall business performance trends<br>
-- Performed end-to-end data cleaning and transformation, improving data quality and ensuring accuracy for analysis and reporting. <br>
-- Conducted time-series and trend analysis to identify seasonal demand patterns and peak sales periods. <br>
-- Developed customer and geographic insights, highlighting revenue concentration and opportunities for market expansion. <br>
-- Delivered data-driven recommendations to support strategic decisions on revenue growth, customer retention, and operational efficiency. <br>
-
-
-
-#### 📊 Flight Price Business Insight Analysis
-- End-to-end data cleaning and feature engineering<br>
-- Statistical validation (ANOVA significance testing)<br>
-- Identified key pricing drivers and seasonal trends<br>
-- Delivered executive-level business insight report<br>
-
----
 
 ### ☁️ Cloud Engineer Projects
 
@@ -145,41 +108,45 @@ Docker | Docker Compose | MongoDB | NGINX | RESTful API | Git | Microservices<br
 
 ## 🛠 Technical Stack
 
-### Analytics
-Python | Pandas | NumPy | Matplotlib | Seaborn | SQL<br>
-Power BI | Tableau | Excel<br>
+### Cloud Platforms
+AWS | EC2 | S3 | IAM | VPC | Route 53 | CloudFront | RDS | Lambda | API Gateway | Auto Scaling | Elastic Load Balancer
 
-### Cloud & DevOps
-AWS | Docker | Kubernetes | GitHub Actions | Linux<br>
+### DevOps & Automation
+Docker | Kubernetes | Terraform | CloudFormation | GitHub Actions | Jenkins | Ansible
+
+### Monitoring & Reliability
+CloudWatch | Prometheus | Grafana | ELK Stack
+
+### Operating Systems & Scripting
+Linux | Bash | Python | Git
 
 ---
 
-## 💡 Unique Advantage
+## 💡 Core Expertise
 
-Most Data Analysts understand data.<br>
-Most Cloud Engineers understand infrastructure.<br>
+I specialize in designing, deploying, and managing secure, scalable, and highly available cloud infrastructure on AWS.
 
-I understand both.<br><br>
-
-This enables me to:<br>
-- Analyze data deeply<br>
-- Build scalable systems<br>
-- Support data-driven cloud applications<br>
-- Bridge the gap between analytics and engineering teams<br>
+This enables me to:
+- Design fault-tolerant and highly available AWS architectures  
+- Automate infrastructure provisioning using Infrastructure as Code  
+- Build and optimize CI/CD pipelines for faster deployments  
+- Containerize and orchestrate applications with Docker and Kubernetes  
+- Implement monitoring, logging, and observability solutions  
+- Improve system reliability, scalability, and operational efficiency  
 
 ---
 
 ## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/tolulope-olalere<br>
-Email: tolulopeolalere4@gmail.com<br>
+LinkedIn: www.linkedin.com/in/tolulope-olalere  
+Email: tolulopeolalere4@gmail.com  
 
 ---
 
-### 📌 Career Focus
-Seeking opportunities as a **Data Analyst, Business Analyst, Cloud Engineer, AWS Solutions Architect, or Platform Engineer**, where I can deliver scalable, data-driven, and highly available solutions.<br>
+## 📌 Career Focus
+Seeking opportunities as an **AWS Cloud Engineer, AWS DevOps Engineer, or AWS Solutions Architect**, where I can design scalable cloud solutions, automate infrastructure, and improve deployment reliability.
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;AWS+Cloud+Engineer;AWS+Solutions+Architect;Platform+Engineer;Power+BI+%26+Tableau+Specialist;Python+Data+Expert" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=AWS+Cloud+Engineer;AWS+DevOps+Engineer;AWS+Solutions+Architect;Cloud+Automation+Engineer;Infrastructure+as+Code+Specialist;CI%2FCD+Pipeline+Engineer" />
 </p>
