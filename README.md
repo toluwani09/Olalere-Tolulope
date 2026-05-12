@@ -1,19 +1,25 @@
 <!-- Banner -->
 <p align="center" style="margin-bottom:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Tolulope%20Olalere&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Tolulope%20Olalere&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Styled Role/Headline with minimal spacing -->
-<p align="center" style="margin-top:5px; margin-bottom:10px;">
+<!-- Role Headline -->
+<p align="center" style="margin-top:8px; margin-bottom:12px;">
   <strong>
-    <span style="font-size:22px;">
-      📊 Data Analyst | 📈 Business Analyst | ☁️ AWS Cloud Engineer | 🏗 AWS Solutions Architect | 🚀 Platform Engineer
+    <span style="font-size:20px;">
+      ☁️ AWS Cloud Engineer | ⚙️ DevOps Engineer | 🏗️ AWS Solutions Architect | 🚀 Platform Engineer | 📈 Site Reliability Engineer
     </span>
   </strong>
 </p>
 
-I am a data-driven professional with strong expertise in advanced analytics using Python, Power BI, and Tableau, combined with hands-on experience designing and deploying scalable cloud architectures on AWS.<br>
-I transform raw data into actionable business insights, and I understand the infrastructure that powers modern data systems.<br><br>
+<!-- Intro -->
+<p align="center">
+  I am a Cloud and DevOps Engineer with <strong>3+ years of hands-on experience</strong> building, automating, and managing scalable cloud infrastructure on AWS.
+  <br><br>
+  My expertise includes designing highly available architectures, implementing CI/CD pipelines, containerization with Docker and Kubernetes, infrastructure as code, cloud security, monitoring, and reliability engineering.
+  <br><br>
+  I focus on building resilient systems that are scalable, secure, automated, and production-ready.
+</p>
 
 ---
 
