@@ -13,7 +13,7 @@
 </p>
 
 <!-- Intro -->
-<p align="center">
+<p align="justify">
   I am a Cloud and DevOps Engineer with <strong>3+ years of hands-on experience</strong> building, automating, and managing scalable cloud infrastructure on AWS.
   <br><br>
   My expertise includes designing highly available architectures, implementing CI/CD pipelines, containerization with Docker and Kubernetes, infrastructure as code, cloud security, monitoring, and reliability engineering.
