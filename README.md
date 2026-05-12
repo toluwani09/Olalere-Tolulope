@@ -14,11 +14,7 @@
 
 <!-- Intro -->
 <p align="justify">
-  I am a Cloud and DevOps Engineer with <strong>3+ years of hands-on experience</strong> building, automating, and managing scalable cloud infrastructure on AWS.
-  <br><br>
-  My expertise includes designing highly available architectures, implementing CI/CD pipelines, containerization with Docker and Kubernetes, infrastructure as code, cloud security, monitoring, and reliability engineering.
-  <br><br>
-  I focus on building resilient systems that are scalable, secure, automated, and production-ready.
+  I am a Cloud and DevOps Engineer with 3+ years of hands-on experience</strong> building, automating, and managing scalable cloud infrastructure on AWS. My expertise includes designing highly available architectures, implementing CI/CD pipelines, containerization with Docker and Kubernetes, infrastructure as code, cloud security, monitoring, and reliability engineering. I focus on building resilient systems that are scalable, secure, automated, and production-ready.
 </p>
 
 ---
