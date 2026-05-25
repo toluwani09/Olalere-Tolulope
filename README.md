@@ -53,6 +53,19 @@
 
 ### ☁️ Cloud Engineer Projects
 
+#### ☁️ Blue-Green Deployment on Kubernetes (Minikube) WITH CI/CD 
+📌 GitHub: [View Project](https://github.com/toluwani09/blue-green-deployment-kubernetes-minikube)<br>
+
+- Designed and implemented a **production-style Blue-Green deployment strategy** using Kubernetes on a single-cluster Minikube environment<br>
+- Deployed two independent environments (NGINX Blue and Apache HTTP Green) using Kubernetes Deployments and Services<br>
+- Implemented traffic switching using Kubernetes Service selectors (label-based routing mechanism)<br>
+- Simulated real-world release strategy including safe validation, controlled traffic switching, and rollback behavior<br>
+- Removed legacy environment after successful validation to simulate production cleanup workflow<br>
+- Implemented CI/CD using GitHub Actions to automate deployment and improve release efficiency<br>
+- Demonstrated strong understanding of deployment strategies (Blue-Green vs Rolling vs Canary) and production trade-offs<br>
+
+---
+
 #### ☁️ Zero-Downtime AWS Application Migration  
 📌 GitHub: [View Project](https://github.com/toluwani09/zero-downtime-aws-application-migration)<br>
 
