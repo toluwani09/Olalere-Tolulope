@@ -51,6 +51,29 @@
 
 ## 📂 Highlighted Projects
 
+#### ☁️ Terraform AWS EKS Platform
+
+📌 GitHub: [View Project](https://github.com/toluwani09/terraform-aws-eks-platform)
+Live Demonstration: [Watch the AWS EKS Terraform deployment demonstration](https://drive.google.com/file/d/1znZSAh6m0HOhe9eG-XiODJHoWOtX3EOu/view?usp=drive_link)
+
+- Designed and implemented a reusable AWS EKS infrastructure platform using Terraform
+
+- Structured the infrastructure into reusable VPC, IAM, and EKS modules
+
+- Implemented remote Terraform state management using Amazon S3 and state locking using DynamoDB
+
+- Built a custom AWS VPC with three public and three private subnets, Internet Gateway, NAT Gateway, Elastic IP, and route tables
+
+- Configured separate IAM roles for the EKS cluster and worker nodes
+
+- Provisioned an Amazon EKS cluster with an EKS managed node group and worker nodes in private subnets
+
+- Structured separate Development, Staging, and Production Terraform configurations while reusing the same infrastructure modules
+
+- Deployed and verified the Development environment on AWS and validated the resulting infrastructure
+
+- Troubleshot and resolved a Terraform state-locking issue caused by a backend configuration mismatch
+
 ### ☁️ Cloud Engineer Projects
 
 #### ☁️ Blue-Green Deployment on Kubernetes (Minikube) WITH CI/CD 
@@ -74,16 +97,6 @@
 - Configured EC2, VPC, subnets, and security groups<br>
 - Performed secure cutover with zero downtime<br>
 - Implemented CloudWatch monitoring and alarms<br>
-
----
-
-#### ☁️ Dockerized Deployment of eMartApp  
-📌 GitHub: [View Project](https://github.com/toluwani09/emartapp-dockerized)<br>
-
-- Containerized full-stack e-commerce application<br>
-- Built Docker images for backend and frontend<br>
-- Orchestrated services using Docker Compose<br>
-- Structured application for CI/CD pipeline integration<br>
 
 ---
 
