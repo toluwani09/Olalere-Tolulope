@@ -33,12 +33,17 @@
 ## 🎯 Core Expertise
 
 ### ☁️ Cloud Engineering & Architecture
-✔ AWS Solutions Architecture (EC2, S3, RDS, IAM, VPC, Lambda)<br>
-✔ Auto Scaling & Load Balancing<br>
-✔ CI/CD Pipeline Implementation<br>
-✔ Docker & Containerization<br>
-✔ High Availability & Fault-Tolerant Systems<br>
-✔ Infrastructure Design & Deployment<br>
+
+✔ AWS Infrastructure Design & Deployment  
+✔ AWS Solutions Architecture (EC2, S3, RDS, IAM, VPC, Lambda)  
+✔ VPC Networking, Public & Private Subnet Architecture  
+✔ Infrastructure as Code with Terraform & CloudFormation  
+✔ Amazon EKS & Kubernetes Infrastructure  
+✔ Auto Scaling & Load Balancing  
+✔ Remote Terraform State Management & State Locking  
+✔ CI/CD Pipeline Implementation  
+✔ Docker & Containerization  
+✔ High Availability & Fault-Tolerant Infrastructure Design<br>
 
 ---
 
