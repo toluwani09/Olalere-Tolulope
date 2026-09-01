@@ -134,16 +134,28 @@ Docker | Docker Compose | MongoDB | NGINX | RESTful API | Git | Microservices<br
 
 ## 🛠 Technical Stack
 
-### Cloud Platforms
-AWS | EC2 | S3 | IAM | VPC | Route 53 | CloudFront | RDS | Lambda | API Gateway | Auto Scaling | Elastic Load Balancer
+### Cloud & Infrastructure
 
-### DevOps & Automation
-Docker | Kubernetes | Terraform | CloudFormation | GitHub Actions | Jenkins | Ansible
+AWS | EC2 | VPC | S3 | IAM | RDS | Route 53 | CloudFront | Lambda | API Gateway | Auto Scaling | Elastic Load Balancing
+
+### Infrastructure as Code
+
+Terraform | CloudFormation
+
+### Containers & Orchestration
+
+Docker | Kubernetes | Amazon EKS | Docker Compose
+
+### CI/CD & Automation
+
+GitHub Actions | Jenkins | Ansible
 
 ### Monitoring & Reliability
+
 CloudWatch | Prometheus | Grafana | ELK Stack
 
 ### Operating Systems & Scripting
+
 Linux | Bash | Python | Git
 
 ---
